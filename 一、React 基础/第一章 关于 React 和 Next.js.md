@@ -1,15 +1,19 @@
 # 第一章 关于 React 和 Next.js
 
 <!-- Next.js is a flexible **React framework** that gives you building blocks to create fast, full-stack **web applications**. -->
+
 Next.js 是一个灵活的 **React 框架**，它为您提供构建块来创建快速、全栈的 **Web 应用程序**。
 
 <!-- But what exactly do we mean by this? Let's spend some time expanding on what React and Next.js are and how they can help you build web applications. -->
+
 但是这到底是什么意思呢？让我们花一些时间展开来讲讲什么是 React 和 Next.js，以及它们如何帮助您构建 Web 应用程序。
 
 <!-- ### Building blocks of a web application -->
+
 ### Web 应用程序的构建块
 
 <!-- There are a few things you need to consider when building modern applications. Such as: -->
+
 当构建现代应用程序的时候，您需要考虑以下这些事情：
 
 <!--
