@@ -57,14 +57,14 @@ DOM 是对 HTML 元素的对象表示。它充当您的代码与用户界面之�
 <!-- 
 True or False: You can update the page content by manipulating the DOM. 
 
-A. The DOM is an object representation of the HTML elements. It acts as a bridge between your code and the user interface, and has a tree-like structure with parent and child relationships.
+True. The DOM is an object representation of the HTML elements. It acts as a bridge between your code and the user interface, and has a tree-like structure with parent and child relationships.
 -->
 
 判断题：您可以通过操作 DOM 来更新页面内容。
 
 <details>
   <summary>正确答案</summary>
-  A。DOM 是 HTML 元素的对象表示形式。它作为您的代码与用户界面之间的桥梁，具有树状结构，包含父级和子级关系。
+  是。DOM 是 HTML 元素的对象表示形式。它作为您的代码与用户界面之间的桥梁，具有树状结构，包含父级和子级关系。
 </details>
 
 <!-- ## You've Completed Chapter 2 -->
