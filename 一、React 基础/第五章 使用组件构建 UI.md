@@ -15,8 +15,8 @@
 -->
 
 - 组件
-- 属性（Props）
-- 状态（State）
+- 属性
+- 状态
 
 <!-- In the next chapters, we will go through these concepts and provide resources where you can continue learning them. After you're familiar with these concepts, we'll then show you how to install Next.js and use newer React features such as Server and Client Components. -->
 
