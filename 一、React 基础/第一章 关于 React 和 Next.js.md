@@ -48,7 +48,7 @@ Next.js 是一个灵活的 **React 框架**，它为您提供构建块来创建�
 
 <!-- [React](https://react.dev/) is a JavaScript **library** for building **interactive user interfaces**. -->
 
-[React](https://react.dev/) 是一个用于构建**交互式用户界面**的 JavaScript **库**。
+[React](https://react.dev/) 是一个用于构建 **交互式用户界面** 的 JavaScript **库**。
 
 <!-- By user interfaces (UI), we mean the elements that users see and interact with on-screen. -->
 

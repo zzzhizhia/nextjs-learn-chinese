@@ -116,7 +116,7 @@ JSX 是一种 JavaScript 语法扩展，让您可以使用类似 *HTML* 的语�
 
 <!-- Comparing the **declarative** React code you just wrote: -->
 
-看看您刚刚编写的**声明式** React 代码：
+看看您刚刚编写的 **声明式** React 代码：
 
 ```html
 <script type="text/jsx">
@@ -128,7 +128,7 @@ JSX 是一种 JavaScript 语法扩展，让您可以使用类似 *HTML* 的语�
 
 <!-- to the **imperative** JavaScript code you wrote in the previous section: -->
 
-将它和您在上一节中编写的**命令式** JavaScript 代码比较一下：
+将它和您在上一节中编写的 **命令式** JavaScript 代码比较一下：
 
 ```html
 <script type="text/javascript">

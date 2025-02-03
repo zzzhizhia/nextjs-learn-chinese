@@ -99,7 +99,7 @@
 
 <!-- This is because the HTML represents the **initial page content**, whereas the DOM represents the **updated page content** which was changed by the JavaScript code you wrote. -->
 
-这是因为 HTML 代表**初始页面内容**，而 DOM 代表**更新后的页面内容**，这些内容是由您编写的 JavaScript 代码更改的。
+这是因为 HTML 代表 **初始页面内容**，而 DOM 代表 **更新后的页面内容**，这些内容是由您编写的 JavaScript 代码更改的。
 
 <!-- Updating the DOM with plain JavaScript is very powerful but verbose. You've written all this code to add an `<h1>` element with some text: -->
 
@@ -122,7 +122,7 @@
 
 <!-- With this approach, developers spend a lot of time writing instructions to tell the computer **how** it should do things. But wouldn't it be nice to describe **what** you want to show and let the computer figure out **how** to update the DOM? -->
 
-使用这种方法，开发人员花费大量时间编写指令来告诉计算机**如何**执行操作。但是，描述您想要显示的内容并让计算机找出**如何**更新 DOM 不是更好吗？
+使用这种方法，开发人员花费大量时间编写指令来告诉计算机 **如何** 执行操作。但是，描述您想要显示的内容并让计算机找出 **如何** 更新 DOM 不是更好吗？
 
 <!-- ## Imperative vs. declarative programming -->
 
@@ -130,11 +130,11 @@
 
 <!-- The code above is a good example of **imperative** **programming.** You're writing the steps for **how** the user interface should be updated. But when it comes to building user interfaces, a declarative approach is often preferred because it can speed up the development process. Instead of having to write DOM methods, it would be helpful if developers were able to declare **what** they want to show (in this case, an `h1` tag with some text). -->
 
-上面的代码是**命令式编程**的一个很好的例子。您正在编写**如何**更新用户界面的步骤。但是在构建用户界面时，通常更喜欢声明式方法，因为它可以加快开发过程。如果开发人员能够声明他们想要显示的内容（在本例中是一个带有一些文本的 `h1` 标签），而不是必须编写 DOM 方法，那将是有帮助的。
+上面的代码是 **命令式编程** 的一个很好的例子。您正在编写 **如何** 更新用户界面的步骤。但是在构建用户界面时，通常更喜欢声明式方法，因为它可以加快开发过程。如果开发人员能够声明他们想要显示的内容（在本例中是一个带有一些文本的 `h1` 标签），而不是必须编写 DOM 方法，那将是有帮助的。
 
 <!-- In other words, **imperative programming** is like giving a chef step-by-step instructions on how to make a pizza. **Declarative programming** is like ordering a pizza without being concerned about the steps it takes to make the pizza. 🍕 -->
 
-换句话说**命令式编程**就像给厨师提供制作披萨的分步说明。**声明式编程**就像点披萨而不关心制作披萨的步骤。🍕
+换句话说 **命令式编程** 就像给厨师提供制作披萨的分步说明。**声明式编程** 就像点披萨而不关心制作披萨的步骤。🍕
 
 <!-- [React](https://react.dev/) is a popular declarative library that you can use build user interfaces. -->
 
@@ -147,7 +147,7 @@
 
 <!-- As a developer, you can tell React what you want to happen to the user interface, and React will figure out the steps of **how** to update the DOM on your behalf. -->
 
-作为开发人员，您可以告诉 React 您希望用户界面发生什么，React 将代表您找出**如何**更新 DOM 的步骤。
+作为开发人员，您可以告诉 React 您希望用户界面发生什么，React 将代表您找出 **如何** 更新 DOM 的步骤。
 
 <!-- In the next section, we'll explore how you can get started with React. -->
 

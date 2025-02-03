@@ -28,11 +28,11 @@
 
 <!-- User interfaces can be broken down into smaller building blocks called **components**. -->
 
-用户界面可以被分解成更小的构建块，这些构建块称为**组件**。
+用户界面可以被分解成更小的构建块，这些构建块称为 **组件**。
 
 <!-- Components allow you to build self-contained, reusable snippets of code. If you think of components as **LEGO bricks**, you can take these individual bricks and combine them together to form larger structures. If you need to update a piece of the UI, you can update the specific component or brick. -->
 
-组件可以让你构建独立的、可复用的代码片段。把组件想象成**乐高积木**：你可以将这些单独的积木组合起来形成更大的结构。如果你需要更新某个 UI 部分，你可以更新相应的组件或积木。
+组件可以让你构建独立的、可复用的代码片段。把组件想象成 **乐高积木**：你可以将这些单独的积木组合起来形成更大的结构。如果你需要更新某个 UI 部分，你可以更新相应的组件或积木。
 
 ![一个由图片、文本和按钮等 3 个更小组件组成的媒体组件示例](https://nextjs.org/_next/image?url=%2Flearn%2Flight%2Flearn-components.png&w=3840&q=75)
 
@@ -50,7 +50,7 @@ React 组件的好处在于它们只是 JavaScript。让我们从 JavaScript 的
 
 <!-- In React, components are **functions.** Inside your `script` tag, create a new function called `header`: -->
 
-在 React 中，组件就是**函数**。在你的 `script` 标签内，新建一个名为 `header` 的函数：
+在 React 中，组件就是 **函数**。在你的 `script` 标签内，新建一个名为 `header` 的函数：
 
 ```html
 <script type="text/jsx">
@@ -66,7 +66,7 @@ React 组件的好处在于它们只是 JavaScript。让我们从 JavaScript 的
 
 <!-- A component is a function that **returns UI elements**. Inside the return statement of the function, you can write JSX: -->
 
-组件是一个**返回 UI 元素**的函数。在函数的 return 语句中，你可以编写 JSX：
+组件是一个 **返回 UI 元素** 的函数。在函数的 return 语句中，你可以编写 JSX：
 
 ```html
 <script type="text/jsx">
