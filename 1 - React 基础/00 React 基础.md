@@ -18,7 +18,7 @@
 
 <!-- This tutorial assumes knowledge of HTML, CSS, JavaScript, and no knowledge of React. If you're already familiar with React, you can skip to the [From React to Next.js](https://nextjs.org/learn/react-foundations/from-react-to-nextjs) chapter or take [Dashboard App](https://nextjs.org/learn/dashboard-app) course. -->
 
-本教程假设您已了解 HTML、CSS、JavaScript，且对 React 一无所知。如果您已经熟悉 React，可以跳转到[从 React 到 Next.js](https://nextjs.org/learn/react-foundations/from-react-to-nextjs)章节或参加[仪表盘应用](https://nextjs.org/learn/dashboard-app)课程。
+本教程假设您已了解 HTML、CSS、JavaScript，且对 React 一无所知。如果您已经熟悉 React，可以跳转到 [从 React 到 Next.js](https://nextjs.org/learn/react-foundations/from-react-to-nextjs) 章节或参加 [仪表盘应用](https://nextjs.org/learn/dashboard-app) 课程。
 
 <!-- ### System requirements -->
 
@@ -44,4 +44,4 @@
 
 <!-- If you have questions about anything related to Next.js or this course, you're welcome to ask our community on [Discord](https://discord.gg/Q3AsD4efFC). -->
 
-如果您有任何关于 Next.js 或本课程的问题，欢迎在[Discord](https://discord.gg/Q3AsD4efFC)社区提问。
+如果您有任何关于 Next.js 或本课程的问题，欢迎在 [Discord](https://discord.gg/Q3AsD4efFC) 社区提问。
