@@ -1,0 +1,47 @@
+<!-- 
+# Next Steps
+-->
+
+# 下一步
+
+<!-- 
+Congratulations on creating your first Next.js application!
+-->
+
+恭喜你创建了你的第一个 Next.js 应用！
+
+<!-- 
+To summarize, you explored the foundational knowledge for React and Next.js, and you migrated from a simple React Application to a Next.js application.
+-->
+
+简单概括，你已经学习了 React 和 Next.js 的核心内容，并且成功将一个简单的 React 应用迁移到了一个 Next.js 应用。
+
+<!-- 
+## What's next?
+-->
+
+## 接下来？
+
+<!-- 
+### Continue learning React
+-->
+
+### 继续学习 React
+
+<!-- 
+Over the years, many courses, videos, and articles have been created to help developers learn React. While it's hard to recommend resources that will fit your learning style, one invaluable reference is the [React Documentation](https://react.dev/) which contains interactive sandboxes to help you practice the topics.
+-->
+
+多年来，已有许多课程、视频和文章帮助开发者学习 React。虽然很难推荐最适合你学习风格的资源，但 [React 文档](https://react.dev/) 是一个非常重要的参考资料，提供了互动沙盒来帮助你练习各项主题。
+
+<!-- 
+### Learn Next.js by building a dashboard app
+-->
+
+### 通过构建仪表板应用学习 Next.js
+
+<!-- 
+Continue learning Next.js by [creating a dashboard app](https://nextjs.org/learn/dashboard-app) - this course will introduce you to the **main** Next.js features and get you practicing by building a more complex project.
+-->
+
+继续学习 Next.js，可以[创建一个仪表板应用](https://nextjs.org/learn/dashboard-app)。该课程将向你介绍 Next.js 的核心特性，并通过构建更复杂的项目来进行实操演练。
