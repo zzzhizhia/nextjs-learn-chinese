@@ -1,5 +1,4 @@
 <!-- # CSS Styling -->
-# CSS Styling
 
 # CSS 样式
 
@@ -28,7 +27,7 @@
 如何使用 `clsx` 工具包有条件地添加类名。
 
 <!-- ## Global styles -->
-## Global styles
+## 全局样式
 
 <!-- If you look inside the `/app/ui` folder, you'll see a file called `global.css`. You can use this file to add CSS rules to **all** the routes in your application - such as CSS reset rules, site-wide styles for HTML elements like links, and more. -->
 如果你查看 `/app/ui` 文件夹，会看到一个名为 `global.css` 的文件。你可以使用该文件为应用的**所有**路由添加 CSS 规则 —— 例如 CSS 重置规则、HTML 元素（如链接）的全局样式等。
@@ -72,7 +71,6 @@ export default function RootLayout({
 @tailwind utilities;
 ```
 
-<!-- ## Tailwind -->
 ## Tailwind
 
 <!-- [Tailwind](https://tailwindcss.com/) is a CSS framework that speeds up the development process by allowing you to quickly write [utility classes](https://tailwindcss.com/docs/utility-first) directly in your React code. -->
@@ -122,7 +120,6 @@ export default function Page() {
 ```
 
 <!-- ### It’s time to take a quiz! -->
-### It’s time to take a quiz!
 
 ### 是时候做个小测验了！
 
@@ -136,7 +133,6 @@ export default function Page() {
 如果你更喜欢编写传统的 CSS 规则或将样式与 JSX 分开，CSS 模块是一个很好的选择。
 
 <!-- ## CSS Modules -->
-## CSS Modules
 
 ## CSS 模块
 
@@ -184,7 +180,6 @@ export default function Page() {
 Tailwind 和 CSS 模块是为 Next.js 应用设置样式的两种最常见方式。使用哪一种取决于个人偏好 —— 你甚至可以在同一个应用中同时使用这两种方式！
 
 <!-- ### It’s time to take a quiz! -->
-### It’s time to take a quiz!
 
 ### 是时候做个小测验了！
 
@@ -195,7 +190,6 @@ Tailwind 和 CSS 模块是为 Next.js 应用设置样式的两种最常见方式
 使用 CSS 模块的一个好处是什么？
 
 <!-- ## Using the clsx library to toggle class names -->
-## Using the clsx library to toggle class names
 
 ## 使用 clsx 库切换类名
 
@@ -233,7 +227,6 @@ export default function InvoiceStatus({ status }: { status: string }) {
 ```
 
 <!-- ### It’s time to take a quiz! -->
-### It’s time to take a quiz!
 
 ### 是时候做个小测验了！
 
@@ -244,7 +237,6 @@ export default function InvoiceStatus({ status }: { status: string }) {
 在你的代码编辑器中搜索 "clsx"，哪些组件使用它有条件地应用类名？
 
 <!-- ## Other styling solutions -->
-## Other styling solutions
 
 ## 其他样式解决方案
 
