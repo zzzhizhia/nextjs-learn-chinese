@@ -1,6 +1,6 @@
-Main branch: Chinese translation Markdown text (translation is still in progress)
+main branch: Chinese translation Markdown text (translation is still in progress)
 
-PPT branch: corresponding PPT teaching materials
+ppt branch: corresponding PPTs for teaching materials
 
 main 分支：中译版 Markdown 文本（汉化仍在进行中）
 
