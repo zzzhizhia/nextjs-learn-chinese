@@ -5,26 +5,18 @@
 <!-- Currently, your home page doesn't have any styles. Let's look at the different ways you can style your Next.js application. -->
 目前，您的主页没有任何样式。让我们来看一下您可以为 Next.js 应用添加样式的不同方式。
 
-<!-- In this chapter... -->
-在本章中…
+<!-- In this chapter...
+Here are the topics we’ll cover -->
+以下是我们在本章中涵盖的主题：
 
-<!-- Here are the topics we’ll cover -->
-以下是我们将要涵盖的主题
-
-![](https://nextjs.org/_next/static/media/file.c356933b.svg)
-
-<!-- How to add a global CSS file to your application. -->
-如何为您的应用添加全局 CSS 文件。
-
-![](https://nextjs.org/_next/static/media/pencil.ce09fe40.svg)
-
-<!-- Two different ways of styling: Tailwind and CSS modules. -->
-两种不同的样式方式：Tailwind 和 CSS 模块。
-
-![](https://nextjs.org/_next/static/media/code-bracket.ab2e0db1.svg)
-
-<!-- How to conditionally add class names with the `clsx` utility package. -->
-如何使用 `clsx` 工具包有条件地添加类名。
+<!--
+- How to add a global CSS file to your application.
+- Two different ways of styling: Tailwind and CSS modules.
+- How to conditionally add class names with the `clsx` utility package.
+-->
+- 如何为您的应用添加全局 CSS 文件。
+- 两种不同的样式方式：Tailwind 和 CSS 模块。
+- 如何使用 `clsx` 工具包有条件地添加类名。
 
 <!-- ## Global styles -->
 ## 全局样式
@@ -128,6 +120,25 @@ export default function Page() {
 
 <!-- What shape do you see when using the code snippet above? -->
 使用上面的代码片段时，你看到了什么形状？
+
+<!--
+A. A yellow star
+B. A blue triangle
+C. A black triangle
+D. A red circle
+-->
+A. 黄色的星形  
+B. 蓝色的三角形  
+C. 黑色的三角形  
+D. 红色的圆形
+
+<!-- The border class names are used to create a triangle shape. -->
+
+<details>
+  <summary>正确答案</summary>
+  C。这些边框类名用于创建一个三角形。
+</details>
+<br>
 
 <!-- If you prefer writing traditional CSS rules or keeping your styles separate from your JSX - CSS Modules are a great alternative. -->
 如果你更喜欢编写传统的 CSS 规则或将样式与 JSX 分开，CSS 模块是一个很好的选择。
